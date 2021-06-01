@@ -8,3 +8,6 @@ hooks:
     - location: /home/ubuntu/pre.sh
       timeout: 300
       runas: root
+  AfterInstall:
+  ApplicationStart:
+  ApplicationStop:
